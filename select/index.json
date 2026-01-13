@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Kingslayer (Lyric Video)",
+  "base_artist": "Bring Me The Horizon",
+  "createdAt": "2026-01-13T14:15:09.162703Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kingslayer",
+      "artist": "Bring Me the Horizon",
+      "has_synced": true,
+      "path": "select/01_Kingslayer_Bring_Me_the_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kingslayer",
+      "artist": "Bring Me the Horizon ft. BABYMETAL",
+      "has_synced": true,
+      "path": "select/02_Kingslayer_Bring_Me_the_Horizon_ft._BABYMETAL.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kingslayer",
+      "artist": "Bring Me The Horizon Feat. BABYMETAL",
+      "has_synced": true,
+      "path": "select/03_Kingslayer_Bring_Me_The_Horizon_Feat._BABYMETAL.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kingslayer",
+      "artist": "Bring Me the Horizon feat. BABYMETAL",
+      "has_synced": true,
+      "path": "select/04_Kingslayer_Bring_Me_the_Horizon_feat._BABYMETAL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kingslayer",
+      "artist": "Bring Me The Horizon, BABYMETAL",
+      "has_synced": true,
+      "path": "select/05_Kingslayer_Bring_Me_The_Horizon,_BABYMETAL.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kingslayer",
+      "artist": "Grand Magus",
+      "has_synced": true,
+      "path": "select/06_Kingslayer_Grand_Magus.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kingslayer",
+      "artist": "Seven Kingdoms",
+      "has_synced": false,
+      "path": "select/07_Kingslayer_Seven_Kingdoms.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kingslayer",
+      "artist": "Babymetal & Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/08_Kingslayer_Babymetal_&_Bring_Me_The_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kingslayer (feat. BABYMETAL)",
+      "artist": "Bring Me The Horizon feat. BABYMETAL",
+      "has_synced": true,
+      "path": "select/09_Kingslayer_(feat._BABYMETAL)_Bring_Me_The_Horizon_feat._BABYMETAL.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kingslayer (feat. BABYMETAL)",
+      "artist": "Bring Me The Horizon; BABYMETAL",
+      "has_synced": true,
+      "path": "select/10_Kingslayer_(feat._BABYMETAL)_Bring_Me_The_Horizon;_BABYMETAL.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kingslayer (feat. BABYMETAL)",
+      "artist": "Bring Me the Horizon",
+      "has_synced": true,
+      "path": "select/11_Kingslayer_(feat._BABYMETAL)_Bring_Me_the_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kingslayer (Feat. BABYMETAL)",
+      "artist": "BABYMETAL",
+      "has_synced": true,
+      "path": "select/12_Kingslayer_(Feat._BABYMETAL)_BABYMETAL.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kingslayer ft. BABYMETAL",
+      "artist": "Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/13_Kingslayer_ft._BABYMETAL_Bring_Me_The_Horizon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kingslayer (feat. BABYMETAL)",
+      "artist": "ブリング・ミー・ザ・ホライズン, BABYMETAL",
+      "has_synced": false,
+      "path": "select/pl_01_Kingslayer_(feat._BABYMETAL)_ブリング・ミー・ザ・ホライズン,_BABYMETAL.txt"
+    }
+  ]
+}
