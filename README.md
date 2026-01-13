@@ -1,0 +1,85 @@
+# Bring Me The Horizon – Kingslayer (Lyric Video)
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+hi
+are you looking for
+the other side?
+feel like nothing ever seems
+quite right?
+are you circling the drain pipe,
+getting off on pain like
+you're corrupted?
+i need to know
+where your loyalties lie
+tell me are you gonna bark
+or bite?
+do you really want to twist
+the knife
+in the belly of the monster?
+get the fuck up
+wake the fuck up
+wipe the system
+and back the fuck up.
+you're a puppet
+when they cut your strings of
+don't come crawling back.
+kingslayer
+destroying castles in the sky
+kingslayer
+forevermore the apple of my eye
+i'd sacrifice my life
+to find you
+angel of the blade
+kingslayer
+come and collect us
+from the night
+暗い (Cry)
+この見えない世界
+まだ消えない未来
+ただ手に入れたい
+another world
+system failure
+life
+is encrypted
+you are modified
+like a virus
+in a lullaby
+artificial 'til the day you die
+silly programme
+you're corrupted!
+get the fuck up
+wake the fuck up
+wipe the system
+＆back the fuck up.
+you're a puppet
+when they cut your strings off
+don't come crawling back
+you're on your own.
+さあ 時の
+扉を開けて
+行こうよ
+(now, let's go
+and open the door of time)
+kings-layer
+destroying castles in the sky
+kingslayer
+i'll fight for you until i die
+kingslayer
+destroying castles in the sky
+kingslayer
+forevermore the apple of my eye
+i'd sacrifice it all
+to guide you
+never have to battle alone
+kingslayer
+come and collect us
+from the night
+this is your wake up call
+we're going down the rabbit hole
+are you ready?
+i can't feel you.
+is this what you want?
+this is what you'll fucking get.
+```
